@@ -1,0 +1,11 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/.idea.UnityPongAtoms.iml
+/contentModel.xml
+/modules.xml
+# Datasource local storage ignored files
+/../../../../../../../:\Programming\Unity2D\UnityPongAtoms\.idea\.idea.UnityPongAtoms\.idea/dataSources/
+/dataSources.local.xml
